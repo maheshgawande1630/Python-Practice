@@ -8,13 +8,13 @@
 
 marks=float(input("Enter marks: "))
 
-if(100>=marks>=90):
+if(marks<=100 and marks>=90):
         print("Grade=A")
-elif(90>marks>=80):
+elif(marks<90 and marks>=80):
         print("Grade=B")
-elif(80>marks>70):
+elif(marks<80 and marks>=70):
         print("Grade=C")
-elif(70>marks):
+elif(marks<70):
         print("Grade=D")    
 else:
     print("Invalid input")        
