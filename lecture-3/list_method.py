@@ -1,11 +1,6 @@
 
-list=[3,4,8,]
+stre=[3,4,8,1]
 
-list.append(5) #add element to the end
-list.sort() #sort in ascending order
-list.sort(reverse=True) #sort in decending order
-list.reverse() #reverses list
-list.insert(1,6)
-list.remove(4)
-list.pop(2)
-print(list)
+
+stre.sort() #sort in ascending order
+print(stre)
