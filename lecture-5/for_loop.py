@@ -1,4 +1,7 @@
+#For loop
 
+num=[1,2,3,4,5,6,7,8]
 
-for variable in nameofdataset:
-    #do something 
+for value in num:
+    print(value)
+
