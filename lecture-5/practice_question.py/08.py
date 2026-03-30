@@ -1,4 +1,4 @@
-#Print a multiplication table of n 
+#Print a multiplication table of n take input from user
 
 n=int(input("Enter a number:"))
 
