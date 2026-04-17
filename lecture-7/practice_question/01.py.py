@@ -15,8 +15,10 @@
 #2nd part of program
 
 #search for word learning
+
+
 word="learning"
-with open("practice.txt","r") as f:
+with open("Python-Practice/lecture-7/practice.txt","r") as f:
     data = f.read()
     if(data.find(word) !=-1):
         print("Found")
