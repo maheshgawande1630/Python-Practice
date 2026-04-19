@@ -14,7 +14,7 @@
 
 #2nd part of program
 
-#search for word learning
+#search for word le arning
 
 
 word="learning"
