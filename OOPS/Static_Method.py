@@ -1,4 +1,4 @@
-#Methods that dont use the self parameter
+#Methods that dont use the self parameter:
 
 class student:
 
